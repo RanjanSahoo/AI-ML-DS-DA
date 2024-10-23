@@ -2,7 +2,7 @@
 Personal repo for AI, ML, Data Science and Data Analytics. 
 AI, Machine Learning, Data Science, and Data Analytics Projects
 
-#Overview
+# Overview
 
 Welcome to my personal GitHub repository, where I showcase a collection of projects in Artificial Intelligence (AI), Machine Learning (ML), Data Science (DS), and Data Analytics. The projects presented here reflect my work and exploration of various techniques and tools in these fields, with a particular focus on Azure Cloud Services for end-to-end data solutions.
 
